@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd-num-p{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "Dejavu Sans", sans-serif ;
+}
+
+
+
+#second-el{
+color: rgb(0, 0, 255);
+font-size: 36px;
+}
+.even-num-p.third-el{
+    font-size: 24px;
+}
+
+#fourth-el {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
